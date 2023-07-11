@@ -1,0 +1,10 @@
+version=1
+id=3002336479
+title=Fix Crafting Context Menu Stutter
+description=This mod changes the crafting hover tooltip algorithm to only show materials that the player has available.
+description=
+description=-This is basically just a changefix to vanilla code that doesn't hold up well as the number of potential recipes for one action increases, this fix overwrites 1 vanilla function by adding 2 lines for an "if" block.
+description=-Untested in online Multiplayer, no issues in solo / couch co-op gameplay.
+description=-Replaces the Authentic Z stutter fix - I left a comment on that mod page with my findings and changes, don't run these together or I guess whichever one loads last will take precedence.
+tags=Build 41;Interface;Misc;Multiplayer
+visibility=public

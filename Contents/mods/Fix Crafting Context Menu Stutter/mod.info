@@ -1,0 +1,7 @@
+name=Crafting Context Menu Stutter Fix
+id=FixCraftingContextMenuStutter
+description=This mod changes the crafting hover tooltip algorithm to only show materials that the player has available.
+This removes the hover stutter seen when a large amount of materials are registered for crafting recipes - AuthenticZ + the rip sheets/ craft sheet rope context menu options is a perfect example of what this fixes.
+description=
+description=
+poster=poster.png
